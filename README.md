@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2022 - To: 04 March 2022
-
-Python                     ████████████████████████░   96.15 %
-Markdown                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
