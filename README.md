@@ -32,7 +32,6 @@
  </p>
 
 <h2>Productivity Stats</h2>
-📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
