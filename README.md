@@ -8,8 +8,8 @@
 
 <samp>
 <p align='left'>
-  A <b>computer science</b> student studying in NTU, SIngapore.
-  I have a strong passion for software and web development and take a keen interest in solving various problems to improve the quality of life for people
+  A <b>computer science</b> student studying in NTU, Singapore. <br>
+  I have a strong passion for software and web development and take a keen interest in solving various problems to improve the quality of life for people!
 </p>
 </samp>
 
