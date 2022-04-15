@@ -13,9 +13,10 @@
 </p>
 </samp>
 
-<!-- <p align='center'>
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Yudhish's Github Stats&count_private=true" alt="Github Stats"/>
-</p> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=radical)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>
   Languages and Tools that I'm familiar with
