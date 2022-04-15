@@ -18,7 +18,7 @@
 </p>
 
 <p align='center'>
-<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowenTey&layout=compact" alt="Github Stats"/>
+<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowenTey&layout=compact&hide=Jupyter_Notebook" alt="Github Stats"/>
 </p>
 
 <h2>
