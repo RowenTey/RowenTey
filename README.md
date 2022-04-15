@@ -18,7 +18,7 @@
 </p> -->
 
 <h2>
-  Languages and tools that I'm familiar with
+  Languages and Tools that I'm familiar with
 </h2>
 <p>
   <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >
