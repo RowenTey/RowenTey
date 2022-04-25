@@ -6,10 +6,11 @@
 </a>&nbsp;&nbsp;  
 </h1>
 
+## ⚡ About 
 <samp>
 <p align='left'>
   A <b>computer science</b> student studying in NTU, Singapore. <br>
-  I have a strong passion for software and web development and take a keen interest in solving various problems to improve the quality of life for people!
+  I have a strong passion for <em>software and web development</em> and take a keen interest in solving various problems to improve the quality of life for people!
 </p>
 </samp>
 
