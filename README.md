@@ -22,7 +22,7 @@
 </p>
 
 <h2>
-  Languages and Tools that I'm familiar with
+ 🛠 Languages and Tools that I'm familiar with
 </h2>
 <p>
   <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
 </p>
 
-<h2>Productivity Stats</h2>
+<h2>⏱ Productivity Stats</h2>
 <!--START_SECTION:waka-->
 
 ```text
