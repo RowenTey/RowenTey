@@ -16,11 +16,11 @@
 </samp>
 
 <p align='center'>
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=radical&custom_title=Kai Seong's Github Stats" alt="Github Stats"/>
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=dark&custom_title=Kai Seong's Github Stats" alt="Github Stats"/>
 </p>
 
 <p align='center'>
-<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowenTey&layout=compact&hide=Jupyter%20Notebook&theme=radical" alt="Github Stats"/>
+<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowenTey&layout=compact&hide=Jupyter%20Notebook&theme=dark" alt="Github Stats"/>
 </p>
 
 <h2>
