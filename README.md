@@ -1,31 +1,25 @@
 <h1 align='left'>
   Hey there, I'm Rowen! 
-<!--   &nbsp;<img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">&nbsp;  -->
-</a>&nbsp;&nbsp;
+</a> &nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/kaiseong/"> 
   <img align='right' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>&nbsp;&nbsp;  
+</a> &nbsp;&nbsp;  
 </h1>
 
 ## ⚡ About 
 <samp>
-<p align='left'>
-  A <b>computer science</b> student studying in NTU, Singapore. <br>
-  I have a strong passion for <em>software and web development</em> and take a keen interest in solving various problems to improve the quality of life for people!
-</p>
+  <p align='left'>
+    A <b>computer science</b> student studying in NTU, Singapore. <br>
+    I have a strong passion for <em>software and web development</em> and take a keen interest in solving various problems to improve the quality of life for people!
+  </p>
 </samp>
 
-<p align='center'>
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=dark&custom_title=Kai Seong's Github Stats" alt="Github Stats"/>
-</p>
+## 🧮 Github Stats
+| <img src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=dark"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RowenTey&theme=dark"/> |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 
-<p align='center'>
-<img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowenTey&layout=compact&hide=Jupyter%20Notebook&theme=dark" alt="Github Stats"/>
-</p>
-
-<h2>
- 🛠 Languages and Tools
-</h2>
+## 🛠 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
   <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >
@@ -51,7 +45,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
 </p>
 
-<h2>⏱ Productivity Stats</h2>
+## ⏱ Productivity Stats
 <!--START_SECTION:waka-->
 
 ```text
