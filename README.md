@@ -8,12 +8,12 @@
 </h1>
 
 ## ⚡ About 
-<samp>
-  <p align='left'>
-    A <b>computer science</b> student studying in NTU, Singapore. <br>
-    I have a strong passion for <em>software and web development</em> and take a keen interest in solving various problems to improve the quality of life for people!
-  </p>
-</samp>
+><samp>
+>  <p align='left'>
+>    A <b>computer science</b> student studying in NTU, Singapore. <br>
+>    I have a strong passion for <em>software and web development</em> and take a keen interest in solving various problems to improve the quality of life for people!
+>  </p>
+></samp>
 
 ## 🧮 Github Stats
 | <img src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=dark&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RowenTey&theme=dark&count_private=true"/> |
