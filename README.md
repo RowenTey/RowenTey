@@ -19,6 +19,11 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=dark&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RowenTey&theme=dark&count_private=true"/> |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 
+<hr>
+<details>
+
+<summary style="font-size: 20px;">💎 Technologies</summary>
+
 ## 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
@@ -65,6 +70,9 @@
   <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Visual-studio-code&logoColor=white" > 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
 </p>
+
+</details>
+<hr>
 
 ## ⏱ Productivity Stats
 <!--START_SECTION:waka-->
