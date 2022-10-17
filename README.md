@@ -9,10 +9,10 @@
 
 ## ⚡ About 
 ><samp>
->  <p align='left'>
+>  <h3 align='left'>
 >    A <b>computer science</b> student studying in NTU, Singapore. <br>
 >    I have a strong passion for <em>software and web development</em> and take a keen interest in solving various problems to improve the quality of life for people!
->  </p>
+>  </h3>
 ></samp>
 
 ## 🧮 Github Stats
