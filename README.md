@@ -80,7 +80,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 January 2023 - To: 25 January 2023
+
+Java   1 hr 9 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.16 %
+XML    10 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.84 %
 ```
 
 <!--END_SECTION:waka-->
