@@ -15,9 +15,11 @@
 >  </h3>
 ></samp>
 
+<!-- 
 ## 🧮 Github Stats
 | <img src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=dark&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RowenTey&theme=dark&count_private=true"/> |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+-->
 
 <hr>
 <details>
