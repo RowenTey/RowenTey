@@ -22,7 +22,6 @@
 -->
 
 <hr>
-<details>
 
 <summary style="font-size: 20px;">💎 Technologies</summary>
 
@@ -71,7 +70,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
 </p>
 
-</details>
 <hr>
 
 ## ⏱ Productivity Stats
