@@ -23,8 +23,6 @@
 
 <hr>
 
-<summary style="font-size: 20px;">💎 Technologies</summary>
-
 ## 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
