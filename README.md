@@ -1,5 +1,5 @@
 <h1 align='left'>
-  Hey there, I'm Rowen! 
+  こんにちは, I'm Rowen! 🙇🏼‍♂️
 </a> &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kaiseong/"> 
@@ -8,22 +8,23 @@
 </h1>
 
 ## ⚡ About 
-><samp>
->  <h3 align='left'>
->    A <b>computer science</b> student studying in NTU, Singapore. <br>
->    I have a strong passion for <em>software and web development</em> and take a keen interest in solving various problems to improve the quality of life for people!
->  </h3>
-></samp>
-
-<!-- 
-## 🧮 Github Stats
-| <img src="https://github-readme-stats.vercel.app/api?username=RowenTey&show_icons=true&theme=dark&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RowenTey&theme=dark&count_private=true"/> |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
--->
-
-<hr>
+A **computer science** student studying in NTU, Singapore. 
+<br>
+I love fiddling around with software to see what kind of fun and amazing product I can create just from my little old laptop. So if you have any cool project ideas, just hit me up :)
 
 ## 💻 Programming Languages
+I've tried and worked with a few programming languages but I'm most comfortable coding in Python, Golang and Typescript. 
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,go,java,ts,js,c,cpp)](https://skillicons.dev)
+
+### 🖼 Front-End
+<br>
+[![My Skills](https://skillicons.dev/icons?i=react,vue,angular)](https://skillicons.dev)
+
+### 🖼 Back-End
+<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,django)](https://skillicons.dev)
+
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
   <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" > 
