@@ -28,20 +28,6 @@ I've tried and worked with a few programming languages but I'm most comfortable 
 ### 🛠 Dev-Ops<br>
 [![My Skills](https://skillicons.dev/icons?i=docker,githubactions)](https://skillicons.dev)
 
-<!--
-## 📊 Data Science
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" >
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" >
-</p>
-
-## 🛠 Software & Tools
-<p>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" >   
-  <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Visual-studio-code&logoColor=white" > 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
-</p>
--->
 
 ## ⏱ Productivity Stats
 <!--START_SECTION:waka-->
