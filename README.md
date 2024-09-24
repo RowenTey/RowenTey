@@ -7,6 +7,7 @@
 </a> &nbsp;&nbsp;  
 </h1>
 
+
 ## ⚡ About 
 A **computer science** student studying in NTU, Singapore. 
 <br>
@@ -16,6 +17,7 @@ I love fiddling around with software to see what kind of fun and amazing product
 I've tried and worked with a few programming languages but I'm most comfortable coding in Python, Golang and Typescript.<br><br> 
 [![My Skills](https://skillicons.dev/icons?i=python,go,java,ts,js,c,cpp)](https://skillicons.dev)
 
+<!--
 ### 🖼 Front-End<br>
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular)](https://skillicons.dev)
 
@@ -27,7 +29,7 @@ I've tried and worked with a few programming languages but I'm most comfortable 
 
 ### 🛠 Dev-Ops<br>
 [![My Skills](https://skillicons.dev/icons?i=docker,githubactions)](https://skillicons.dev)
-
+-->
 
 ## ⏱ Productivity Stats
 <!--START_SECTION:waka-->
