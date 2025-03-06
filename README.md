@@ -9,7 +9,7 @@
 
 ## ⚡ About 
 A **software engineer** @ IDEMIA Singapore. 
-<br>
+<br><br>
 I love fiddling around with software to see what kind of fun and amazing product I can create just from my little old laptop. So if you have any cool project ideas, just hit me up :)
 
 ## 💻 Programming Languages
