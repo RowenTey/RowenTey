@@ -1,10 +1,9 @@
 <h1 align='left'>
   こんにちは, I'm Rowen! 🙇🏼‍♂️
-</a> &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/kaiseong/"> 
-  <img align='right' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a> &nbsp;&nbsp;  
+  <a href="https://www.linkedin.com/in/rowentey/"> 
+    <img align='right' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a> 
 </h1>
 
 ## ⚡ About 
