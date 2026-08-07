@@ -7,7 +7,7 @@
 </h1>
 
 ## ⚡ About 
-A **software engineer** @ IDEMIA Singapore. 
+A **software engineer** @ Stealth. 
 <br><br>
 I love fiddling around with software to see what kind of fun and amazing product I can create just from my little old laptop. So if you have any cool project ideas, just hit me up :)
 
