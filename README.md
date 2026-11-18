@@ -14,14 +14,3 @@ I love fiddling around with software to see what kind of fun and amazing product
 ## 💻 Programming Languages
 I've tried and worked with a few programming languages but I'm most comfortable coding in Python, Golang, Java and Typescript.<br><br> 
 [![My Skills](https://skillicons.dev/icons?i=python,go,java,ts)](https://skillicons.dev)
-
-## ⏱ Productivity Stats
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
